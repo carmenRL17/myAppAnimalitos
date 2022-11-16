@@ -1,0 +1,7 @@
+schemas/
+node_modules/
+#ignora  todos los archivos con exxtension .txt :)
+#*.txt
+#ignora a un documento especifico 
+documentos/hola.txt
+notas.txt
